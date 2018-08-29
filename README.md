@@ -1,3 +1,3 @@
 # ReactNodeProject-version1
 
-edit someth.i..ng 
+This is my project
